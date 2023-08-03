@@ -3,7 +3,7 @@
  Manjot
  Jessue
  Jatin
-A new Flutter application.
+
 
 ## Getting Started
 
